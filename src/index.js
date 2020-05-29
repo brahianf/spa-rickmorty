@@ -1,1 +1,4 @@
-console.log('Brahianf')
+
+import router from './routes';
+
+window.addEventListener('load', router)
